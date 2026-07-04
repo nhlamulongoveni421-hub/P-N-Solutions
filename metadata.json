@@ -1,0 +1,6 @@
+{
+  "name": "P&N Solutions",
+  "description": "Professional, modern business website for P&N Solutions, offering high-performing web design, AI chatbots, WhatsApp automation, and custom digital automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
